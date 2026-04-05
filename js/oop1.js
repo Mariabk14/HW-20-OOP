@@ -1,6 +1,6 @@
 const refs = {
-    gallery: document.querySelector(".gallery");
-images: document.querySelectorAll(".image");
+    gallery: document.querySelector(".gallery"),
+images: document.querySelectorAll(".image"),
   input: document.querySelector("#controls input"),
   renderBtn: document.querySelector('[data-action="render"]'),
   destroyBtn: document.querySelector('[data-action="destroy"]'),
